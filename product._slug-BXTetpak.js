@@ -1,0 +1,1 @@
+import{j as o}from"./index-Ox_gzlPq.js";import{L as t}from"./Layout-BdtoohlH.js";import"./index-DJipgkrB.js";import"./index-Du64hMjX.js";const p=()=>o.jsx(t,{children:o.jsx("div",{className:"p-20 text-center",children:"Product not found."})});export{p as notFoundComponent};

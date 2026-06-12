@@ -1,0 +1,1 @@
+import{j as o}from"./index-Ox_gzlPq.js";import{L as r}from"./Layout-BdtoohlH.js";import"./index-DJipgkrB.js";import"./index-Du64hMjX.js";const n=()=>o.jsx(r,{children:o.jsx("div",{className:"p-20 text-center",children:"Couldn't load product."})});export{n as errorComponent};
